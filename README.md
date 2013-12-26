@@ -1,4 +1,4 @@
 exo_api pages
 =============
 
-API Exercice
+Google Map example: http://cfgeo.github.io/exo_api/google_map.html
